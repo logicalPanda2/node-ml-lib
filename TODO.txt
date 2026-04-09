@@ -5,6 +5,8 @@ flatten
 reshape
 flip
 convolve
+gap
+convbackwardgap
 
 SIMPLIFICATION/REFACTOR
 swish tensor
@@ -13,3 +15,6 @@ swish derivative tensor
 CREATE
 tensor primitive
 tensor validation
+
+CONSIDER
+reworking all forms of vectors/matrices/tensors into 1D Float64Array s with metadata 
