@@ -1,0 +1,15 @@
+TESTS
+convforward
+convbackward
+flatten
+reshape
+flip
+convolve
+
+SIMPLIFICATION/REFACTOR
+swish tensor
+swish derivative tensor
+
+CREATE
+tensor primitive
+tensor validation
