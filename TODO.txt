@@ -1,4 +1,4 @@
-TESTS
+1. TESTS
 convforward
 convbackward
 flatten
@@ -7,14 +7,16 @@ flip
 convolve
 gap
 convbackwardgap
+all convolution related functions in NeuralNet class
 
-SIMPLIFICATION/REFACTOR
+2. CREATE
+4D tensor primitive
+4D tensor validation
+
+3. REFACTOR/FEATURES
 swish tensor
 swish derivative tensor
+add tensor equivalents for relu
 
-CREATE
-tensor primitive
-tensor validation
-
-CONSIDER
+999. CONSIDER
 reworking all forms of vectors/matrices/tensors into 1D Float64Array s with metadata 
