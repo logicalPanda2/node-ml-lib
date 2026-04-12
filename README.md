@@ -38,11 +38,5 @@ Check out the examples for MLPs and CNNs on the section "E2E Tests" at `lib/inde
 
 ## TODO
 
-0. 4D tensor primitives and validation
-1. Refactor and optimize CNN functions
-2. Softmax jacobian
-3. BCE plain derivative
-4. CCE plain derivative
-5. Swish with trainable params
-6. SwiGLU
-7. Transformer blocks
+1. SwiGLU
+2. Transformer blocks
