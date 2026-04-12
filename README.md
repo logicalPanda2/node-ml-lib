@@ -19,9 +19,15 @@ A significant amount of prerequisite knowledge is required to be able to use thi
 4. Activation functions
 5. Tasks: classification, regression, and basics of text and image processing
 
+For further knowledge about AI/ML:
+1. Motivation behind CNNs
+2. Kernels, filters, channels, 3D and 4D tensors
+3. Pooling and Global Average Pooling
+4. CNN backpropagation
+
 ### Getting started
 
-Check out the XOR model example in the last test on `lib/index.test.js`.
+Check out the examples for MLPs and CNNs on the section "E2E Tests" at `lib/index.test.js`.
 
 ## List of functions
 
@@ -33,10 +39,11 @@ Check out the XOR model example in the last test on `lib/index.test.js`.
 
 ## TODO
 
-1. Softmax jacobian
-2. BCE plain derivative
-3. CCE plain derivative
-4. Swish with trainable params
-5. SwiGLU
-6. CNN related functions
+0. 4D tensor primitives and validation
+1. Refactor and optimize CNN functions
+2. Softmax jacobian
+3. BCE plain derivative
+4. CCE plain derivative
+5. Swish with trainable params
+6. SwiGLU
 7. Transformer blocks
