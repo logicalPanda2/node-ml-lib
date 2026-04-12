@@ -32,10 +32,9 @@ Check out the examples for MLPs and CNNs on the section "E2E Tests" at `lib/inde
 ## List of functions
 
 1. Optimized vector and matrix computation algorithms: matmul, transpose, outer product, etc.
-2. Backward and forward passes
-3. Activation functions: softmax, relu, sigmoid, etc.
-4. Cost functions: BCE, CCE, MSE
-5. Controller functions for forward passes and backpropagation
+2. Activation functions: softmax, relu, sigmoid, etc.
+3. Cost functions: BCE, CCE, MSE
+4. Controller functions for forward passes and backpropagation
 
 ## TODO
 
