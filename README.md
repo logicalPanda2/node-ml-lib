@@ -27,7 +27,7 @@ A significant amount of prerequisite knowledge is required to be able to use thi
 
 ### **Getting started**
 
-Check out the examples for MLPs, CNNs, and Transformers on the "E2E Tests" section at `lib/index.test.js`.
+Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
 
 ### Extra
 
@@ -70,7 +70,7 @@ Check out the examples for MLPs, CNNs, and Transformers on the "E2E Tests" secti
 
 ## Disclaimer
 
-This project is not intended to be a production-grade, machine learning library; it is an educational library that aims to implement various AI models using the simplest code possible and minimal dependencies.
+This project is not intended to be a production-grade, machine learning library; it is an educational library that aims to implement various AI models using the simplest code possible with minimal dependencies.
 
 ## License
 
