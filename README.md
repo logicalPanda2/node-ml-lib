@@ -16,6 +16,8 @@ git clone https://github.com/logicalPanda2/node-ml-lib.git
 
 ## Usage
 
+**The NodeJS runtime is required to run this library.**
+
 ### Prerequisites
 
 A significant amount of prerequisite knowledge is required to be able to use this library effectively. Some topics to get started:
@@ -66,7 +68,7 @@ Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
 2. Activation functions: softmax, relu, sigmoid, etc.
 3. Cost functions: BCE, CCE, MSE
 4. Controller functions for forward passes and backpropagation
-5. Functions for CNNs and Transformer-based models
+5. Functions for MLPs, CNNs and Transformer-based models
 
 ## Disclaimer
 
