@@ -1,12 +1,20 @@
 # NodeJS ML Library
 
-Simple and optimized educational machine learning library written in NodeJS with no external dependencies.
+Simple and optimized educational machine learning library written in NodeJS with no external dependencies. The only file that needs to be included is `./lib/index.js`, about ~1200 lines of code.
 
 It supports:
 
 1. Multi-Layer Perceptrons
 2. Convolutional Neural Networks
 3. Transformer-based models
+
+## Table of Contents
+
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [What's Included?](#whats-included)
+4. [Status](#current-status)
+5. [License](#license)
 
 ## Installation
 
@@ -46,7 +54,7 @@ Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
 9. Transformer encoder backpropagation
 10. Optimization methods: Adam, SGD, Mini-batch GD, Momentum
 
-#### For even further knowledge:
+### More Extra
 
 #### Language
 
@@ -62,7 +70,7 @@ Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
 2. Stable Diffusion models and backprop
 3. and many more
 
-## What's included?
+## What's Included?
 
 1. Optimized vector and matrix computation algorithms: matmul, transpose, outer product, etc.
 2. Activation functions: softmax, relu, sigmoid, etc.
@@ -70,9 +78,11 @@ Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
 4. Controller functions for forward passes and backpropagation
 5. Functions for MLPs, CNNs and Transformer-based models
 
-## Disclaimer
+## Current Status
 
-This project is not intended to be a production-grade, machine learning library; it is an educational library that aims to implement various AI models using the simplest code possible with minimal dependencies.
+1. Examples complete, system usable
+1. 12 tests left
+2. Transformer functions refactor / slight optimization needed
 
 ## License
 
