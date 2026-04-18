@@ -26,7 +26,11 @@ git clone https://github.com/logicalPanda2/node-ml-lib.git
 
 **The NodeJS runtime is required to run this library.**
 
-### Prerequisites
+### Getting started
+
+Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
+
+### Prerequisite knowledge
 
 A significant amount of prerequisite knowledge is required to be able to use this library effectively. Some topics to get started:
 1. Perceptrons, linear functions, and MLPs
@@ -34,10 +38,6 @@ A significant amount of prerequisite knowledge is required to be able to use thi
 3. The training process: forward passes, backward passes, and gradient descent
 4. Activation functions
 5. Tasks: classification, regression, and basics of text and image processing
-
-### **Getting started**
-
-Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
 
 ### Extra
 
@@ -81,8 +81,10 @@ Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
 ## Current Status
 
 1. Examples complete, system usable
-1. 12 tests left
-2. Transformer functions refactor / slight optimization needed
+2. 12 tests left
+3. Transformer functions refactor / slight optimization needed
+
+Actively maintained. Several changes ahead.
 
 ## License
 
