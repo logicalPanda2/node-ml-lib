@@ -37,11 +37,9 @@ Check out the examples for MLPs, CNNs, and Transformers at `lib/EXAMPLES.js`.
 
 ## Current Status
 
-1. Examples complete, system usable
-2. 12 tests left
-3. Transformer functions refactor / slight optimization needed
+Finished project; this project is no longer actively maintained.
 
-Actively maintained. Several changes ahead.
+As of this commit, There are no encountered bugs.
 
 ## License
 
